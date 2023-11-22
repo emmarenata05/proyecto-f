@@ -1,0 +1,20 @@
+#caballo:hover {
+  filter: invert(12);
+}
+
+#caballo-2:hover {
+  filter: grayscale(6);
+}
+
+#caballo-3:hover {
+  filter: contrast(7);
+}
+
+.barra:hover {
+  background: #ffffff;
+}
+
+.barra:hover {
+  background: var(--bs-pink);
+}
+
